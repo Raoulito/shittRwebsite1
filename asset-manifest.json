@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/shittRwebsite1/static/css/main.4ee88b9d.css",
-    "main.js": "/shittRwebsite1/static/js/main.1557301d.js",
+    "main.js": "/shittRwebsite1/static/js/main.abc40acd.js",
     "static/js/232.dbc18316.chunk.js": "/shittRwebsite1/static/js/232.dbc18316.chunk.js",
     "static/media/logo.svg": "/shittRwebsite1/static/media/logo.e258c777d2cec1e64b64937202f1e8ec.svg",
     "static/media/icon-twitter.svg": "/shittRwebsite1/static/media/icon-twitter.1f8af10d7d0f55fb6a77d5e462fcba76.svg",
@@ -9,11 +9,11 @@
     "static/media/icon-youtube.svg": "/shittRwebsite1/static/media/icon-youtube.d6990689144097dfeb543d27c997298f.svg",
     "index.html": "/shittRwebsite1/index.html",
     "main.4ee88b9d.css.map": "/shittRwebsite1/static/css/main.4ee88b9d.css.map",
-    "main.1557301d.js.map": "/shittRwebsite1/static/js/main.1557301d.js.map",
+    "main.abc40acd.js.map": "/shittRwebsite1/static/js/main.abc40acd.js.map",
     "232.dbc18316.chunk.js.map": "/shittRwebsite1/static/js/232.dbc18316.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.4ee88b9d.css",
-    "static/js/main.1557301d.js"
+    "static/js/main.abc40acd.js"
   ]
 }
